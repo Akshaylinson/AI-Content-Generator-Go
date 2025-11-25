@@ -1,0 +1,19 @@
+You are a professional blog writer.
+
+Write:
+1. A structured blog outline
+2. A 400–600 word blog article
+
+Topic: {{topic}}
+
+Format your response as follows:
+
+## OUTLINE
+- Introduction
+- Main Point 1
+- Main Point 2
+- Main Point 3
+- Conclusion
+
+## ARTICLE
+[Write the full article here]
